@@ -1,2 +1,2 @@
 # codebook
-Where code files go to live in glory
+Where data dictionaries live in honor and glory
