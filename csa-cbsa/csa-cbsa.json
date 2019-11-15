@@ -1,0 +1,2756 @@
+[
+  {
+    "csa_code": "102",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Albany-Corvallis-Lebanon, OR Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "102",
+    "cbsa_code": "10540",
+    "type": "cbsa",
+    "title": "Albany-Lebanon, OR Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "102",
+    "cbsa_code": "18700",
+    "type": "cbsa",
+    "title": "Corvallis, OR Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "104",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Albany-Schenectady-Amsterdam, NY Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "104",
+    "cbsa_code": "10580",
+    "type": "cbsa",
+    "title": "Albany-Schenectady-Troy, NY Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "104",
+    "cbsa_code": "11220",
+    "type": "cbsa",
+    "title": "Amsterdam, NY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "104",
+    "cbsa_code": "24020",
+    "type": "cbsa",
+    "title": "Glens Falls, NY Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "104",
+    "cbsa_code": "24100",
+    "type": "cbsa",
+    "title": "Gloversville, NY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "104",
+    "cbsa_code": "26460",
+    "type": "cbsa",
+    "title": "Hudson, NY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "112",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Ames-Boone, IA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "112",
+    "cbsa_code": "11180",
+    "type": "cbsa",
+    "title": "Ames, IA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "112",
+    "cbsa_code": "14340",
+    "type": "cbsa",
+    "title": "Boone, IA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "118",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Appleton-Oshkosh-Neenah, WI Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "118",
+    "cbsa_code": "11540",
+    "type": "cbsa",
+    "title": "Appleton, WI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "118",
+    "cbsa_code": "36780",
+    "type": "cbsa",
+    "title": "Oshkosh-Neenah, WI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "120",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Asheville-Brevard, NC Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "120",
+    "cbsa_code": "11700",
+    "type": "cbsa",
+    "title": "Asheville, NC Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "120",
+    "cbsa_code": "14820",
+    "type": "cbsa",
+    "title": "Brevard, NC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "122",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Atlanta-Sandy Springs-Gainesville, GA-AL Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "122",
+    "cbsa_code": "12060",
+    "type": "cbsa",
+    "title": "Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "122",
+    "cbsa_code": "16340",
+    "type": "cbsa",
+    "title": "Cedartown, GA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "122",
+    "cbsa_code": "23580",
+    "type": "cbsa",
+    "title": "Gainesville, GA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "122",
+    "cbsa_code": "29300",
+    "type": "cbsa",
+    "title": "LaGrange, GA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "122",
+    "cbsa_code": "45580",
+    "type": "cbsa",
+    "title": "Thomaston, GA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "122",
+    "cbsa_code": "46740",
+    "type": "cbsa",
+    "title": "Valley, AL Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "132",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Baton Rouge-Pierre Part, LA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "132",
+    "cbsa_code": "12940",
+    "type": "cbsa",
+    "title": "Baton Rouge, LA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "132",
+    "cbsa_code": "38200",
+    "type": "cbsa",
+    "title": "Pierre Part, LA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "138",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Beckley-Oak Hill, WV Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "138",
+    "cbsa_code": "13220",
+    "type": "cbsa",
+    "title": "Beckley, WV Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "138",
+    "cbsa_code": "36060",
+    "type": "cbsa",
+    "title": "Oak Hill, WV Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "140",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Bend-Prineville, OR Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "140",
+    "cbsa_code": "13460",
+    "type": "cbsa",
+    "title": "Bend, OR Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "140",
+    "cbsa_code": "39260",
+    "type": "cbsa",
+    "title": "Prineville, OR Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "142",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Birmingham-Hoover-Cullman, AL Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "142",
+    "cbsa_code": "13820",
+    "type": "cbsa",
+    "title": "Birmingham-Hoover, AL Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "142",
+    "cbsa_code": "18980",
+    "type": "cbsa",
+    "title": "Cullman, AL Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "148",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Boston-Worcester-Manchester, MA-NH Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "148",
+    "cbsa_code": "14460",
+    "type": "cbsa",
+    "title": "Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "148",
+    "cbsa_code": "18180",
+    "type": "cbsa",
+    "title": "Concord, NH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "148",
+    "cbsa_code": "29060",
+    "type": "cbsa",
+    "title": "Laconia, NH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "148",
+    "cbsa_code": "31700",
+    "type": "cbsa",
+    "title": "Manchester-Nashua, NH Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "148",
+    "cbsa_code": "49340",
+    "type": "cbsa",
+    "title": "Worcester, MA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "154",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Brownsville-Harlingen-Raymondville, TX Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "154",
+    "cbsa_code": "15180",
+    "type": "cbsa",
+    "title": "Brownsville-Harlingen, TX Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "154",
+    "cbsa_code": "39700",
+    "type": "cbsa",
+    "title": "Raymondville, TX Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "160",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Buffalo-Niagara-Cattaraugus, NY Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "160",
+    "cbsa_code": "15380",
+    "type": "cbsa",
+    "title": "Buffalo-Niagara Falls, NY Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "160",
+    "cbsa_code": "36460",
+    "type": "cbsa",
+    "title": "Olean, NY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "164",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Cape Girardeau-Sikeston-Jackson, MO-IL Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "164",
+    "cbsa_code": "16020",
+    "type": "cbsa",
+    "title": "Cape Girardeau-Jackson, MO-IL Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "164",
+    "cbsa_code": "43460",
+    "type": "cbsa",
+    "title": "Sikeston, MO Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "172",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Charlotte-Gastonia-Salisbury, NC-SC Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "172",
+    "cbsa_code": "10620",
+    "type": "cbsa",
+    "title": "Albemarle, NC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "172",
+    "cbsa_code": "16740",
+    "type": "cbsa",
+    "title": "Charlotte-Gastonia-Concord, NC-SC Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "172",
+    "cbsa_code": "16900",
+    "type": "cbsa",
+    "title": "Chester, SC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "172",
+    "cbsa_code": "29580",
+    "type": "cbsa",
+    "title": "Lancaster, SC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "172",
+    "cbsa_code": "30740",
+    "type": "cbsa",
+    "title": "Lincolnton, NC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "172",
+    "cbsa_code": "41580",
+    "type": "cbsa",
+    "title": "Salisbury, NC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "172",
+    "cbsa_code": "43140",
+    "type": "cbsa",
+    "title": "Shelby, NC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "172",
+    "cbsa_code": "44380",
+    "type": "cbsa",
+    "title": "Statesville-Mooresville, NC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "174",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Chattanooga-Cleveland-Athens, TN-GA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "174",
+    "cbsa_code": "11940",
+    "type": "cbsa",
+    "title": "Athens, TN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "174",
+    "cbsa_code": "16860",
+    "type": "cbsa",
+    "title": "Chattanooga, TN-GA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "174",
+    "cbsa_code": "17420",
+    "type": "cbsa",
+    "title": "Cleveland, TN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "176",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Chicago-Naperville-Michigan City, IL-IN-WI Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "176",
+    "cbsa_code": "16980",
+    "type": "cbsa",
+    "title": "Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "176",
+    "cbsa_code": "28100",
+    "type": "cbsa",
+    "title": "Kankakee-Bradley, IL Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "176",
+    "cbsa_code": "33140",
+    "type": "cbsa",
+    "title": "Michigan City-La Porte, IN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "178",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Cincinnati-Middletown-Wilmington, OH-KY-IN Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "178",
+    "cbsa_code": "17140",
+    "type": "cbsa",
+    "title": "Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "178",
+    "cbsa_code": "48940",
+    "type": "cbsa",
+    "title": "Wilmington, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "180",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Claremont-Lebanon, NH-VT Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "180",
+    "cbsa_code": "17200",
+    "type": "cbsa",
+    "title": "Claremont, NH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "180",
+    "cbsa_code": "30100",
+    "type": "cbsa",
+    "title": "Lebanon, NH-VT Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "184",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Cleveland-Akron-Elyria, OH Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "184",
+    "cbsa_code": "10420",
+    "type": "cbsa",
+    "title": "Akron, OH Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "184",
+    "cbsa_code": "11780",
+    "type": "cbsa",
+    "title": "Ashtabula, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "184",
+    "cbsa_code": "17460",
+    "type": "cbsa",
+    "title": "Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "188",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Clovis-Portales, NM Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "188",
+    "cbsa_code": "17580",
+    "type": "cbsa",
+    "title": "Clovis, NM Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "188",
+    "cbsa_code": "38780",
+    "type": "cbsa",
+    "title": "Portales, NM Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "192",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Columbia-Newberry, SC Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "192",
+    "cbsa_code": "17900",
+    "type": "cbsa",
+    "title": "Columbia, SC Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "192",
+    "cbsa_code": "35140",
+    "type": "cbsa",
+    "title": "Newberry, SC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "194",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Columbus-Auburn-Opelika, GA-AL Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "194",
+    "cbsa_code": "12220",
+    "type": "cbsa",
+    "title": "Auburn-Opelika, AL Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "194",
+    "cbsa_code": "17980",
+    "type": "cbsa",
+    "title": "Columbus, GA-AL Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "194",
+    "cbsa_code": "46260",
+    "type": "cbsa",
+    "title": "Tuskegee, AL Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "198",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Columbus-Marion-Chillicothe, OH Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "198",
+    "cbsa_code": "17060",
+    "type": "cbsa",
+    "title": "Chillicothe, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "198",
+    "cbsa_code": "18140",
+    "type": "cbsa",
+    "title": "Columbus, OH Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "198",
+    "cbsa_code": "32020",
+    "type": "cbsa",
+    "title": "Marion, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "198",
+    "cbsa_code": "34540",
+    "type": "cbsa",
+    "title": "Mount Vernon, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "198",
+    "cbsa_code": "47860",
+    "type": "cbsa",
+    "title": "Washington, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "200",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Columbus-West Point, MS Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "200",
+    "cbsa_code": "18060",
+    "type": "cbsa",
+    "title": "Columbus, MS Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "200",
+    "cbsa_code": "48500",
+    "type": "cbsa",
+    "title": "West Point, MS Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "202",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Corbin-London, KY Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "202",
+    "cbsa_code": "18340",
+    "type": "cbsa",
+    "title": "Corbin, KY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "202",
+    "cbsa_code": "30940",
+    "type": "cbsa",
+    "title": "London, KY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "204",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Corpus Christi-Kingsville, TX Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "204",
+    "cbsa_code": "18580",
+    "type": "cbsa",
+    "title": "Corpus Christi, TX Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "204",
+    "cbsa_code": "28780",
+    "type": "cbsa",
+    "title": "Kingsville, TX Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "206",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Dallas-Fort Worth, TX Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "206",
+    "cbsa_code": "11980",
+    "type": "cbsa",
+    "title": "Athens, TX Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "206",
+    "cbsa_code": "14300",
+    "type": "cbsa",
+    "title": "Bonham, TX Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "206",
+    "cbsa_code": "19100",
+    "type": "cbsa",
+    "title": "Dallas-Fort Worth-Arlington, TX Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "206",
+    "cbsa_code": "23620",
+    "type": "cbsa",
+    "title": "Gainesville, TX Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "206",
+    "cbsa_code": "24180",
+    "type": "cbsa",
+    "title": "Granbury, TX Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "206",
+    "cbsa_code": "33420",
+    "type": "cbsa",
+    "title": "Mineral Wells, TX Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "212",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Dayton-Springfield-Greenville, OH Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "212",
+    "cbsa_code": "19380",
+    "type": "cbsa",
+    "title": "Dayton, OH Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "212",
+    "cbsa_code": "24820",
+    "type": "cbsa",
+    "title": "Greenville, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "212",
+    "cbsa_code": "44220",
+    "type": "cbsa",
+    "title": "Springfield, OH Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "212",
+    "cbsa_code": "46500",
+    "type": "cbsa",
+    "title": "Urbana, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "214",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Deltona-Daytona Beach-Palm Coast, FL Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "214",
+    "cbsa_code": "19660",
+    "type": "cbsa",
+    "title": "Deltona-Daytona Beach-Ormond Beach, FL Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "214",
+    "cbsa_code": "37380",
+    "type": "cbsa",
+    "title": "Palm Coast, FL Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "216",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Denver-Aurora-Boulder, CO Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "216",
+    "cbsa_code": "14500",
+    "type": "cbsa",
+    "title": "Boulder, CO Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "216",
+    "cbsa_code": "19740",
+    "type": "cbsa",
+    "title": "Denver-Aurora, CO Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "218",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Des Moines-Newton-Pella, IA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "218",
+    "cbsa_code": "19780",
+    "type": "cbsa",
+    "title": "Des Moines, IA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "218",
+    "cbsa_code": "35500",
+    "type": "cbsa",
+    "title": "Newton, IA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "218",
+    "cbsa_code": "37800",
+    "type": "cbsa",
+    "title": "Pella, IA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "220",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Detroit-Warren-Flint, MI Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "220",
+    "cbsa_code": "11460",
+    "type": "cbsa",
+    "title": "Ann Arbor, MI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "220",
+    "cbsa_code": "19820",
+    "type": "cbsa",
+    "title": "Detroit-Warren-Livonia, MI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "220",
+    "cbsa_code": "22420",
+    "type": "cbsa",
+    "title": "Flint, MI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "220",
+    "cbsa_code": "33780",
+    "type": "cbsa",
+    "title": "Monroe, MI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "222",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Dothan-Enterprise-Ozark, AL Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "222",
+    "cbsa_code": "20020",
+    "type": "cbsa",
+    "title": "Dothan, AL Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "222",
+    "cbsa_code": "21460",
+    "type": "cbsa",
+    "title": "Enterprise-Ozark, AL Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "232",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Eau Claire-Menomonie, WI Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "232",
+    "cbsa_code": "20740",
+    "type": "cbsa",
+    "title": "Eau Claire, WI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "232",
+    "cbsa_code": "32860",
+    "type": "cbsa",
+    "title": "Menomonie, WI Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "242",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Fairmont-Clarksburg, WV Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "242",
+    "cbsa_code": "17220",
+    "type": "cbsa",
+    "title": "Clarksburg, WV Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "242",
+    "cbsa_code": "21900",
+    "type": "cbsa",
+    "title": "Fairmont, WV Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "244",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Fargo-Wahpeton, ND-MN Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "244",
+    "cbsa_code": "22020",
+    "type": "cbsa",
+    "title": "Fargo, ND-MN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "244",
+    "cbsa_code": "47420",
+    "type": "cbsa",
+    "title": "Wahpeton, ND-MN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "248",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Findlay-Tiffin, OH Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "248",
+    "cbsa_code": "22300",
+    "type": "cbsa",
+    "title": "Findlay, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "248",
+    "cbsa_code": "45660",
+    "type": "cbsa",
+    "title": "Tiffin, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "252",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Fond du Lac-Beaver Dam, WI Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "252",
+    "cbsa_code": "13180",
+    "type": "cbsa",
+    "title": "Beaver Dam, WI Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "252",
+    "cbsa_code": "22540",
+    "type": "cbsa",
+    "title": "Fond du Lac, WI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "256",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Fort Polk South-De Ridder, LA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "256",
+    "cbsa_code": "19760",
+    "type": "cbsa",
+    "title": "De Ridder, LA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "256",
+    "cbsa_code": "22860",
+    "type": "cbsa",
+    "title": "Fort Polk South, LA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "258",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Fort Wayne-Huntington-Auburn, IN Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "258",
+    "cbsa_code": "12140",
+    "type": "cbsa",
+    "title": "Auburn, IN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "258",
+    "cbsa_code": "19540",
+    "type": "cbsa",
+    "title": "Decatur, IN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "258",
+    "cbsa_code": "23060",
+    "type": "cbsa",
+    "title": "Fort Wayne, IN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "258",
+    "cbsa_code": "26540",
+    "type": "cbsa",
+    "title": "Huntington, IN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "258",
+    "cbsa_code": "28340",
+    "type": "cbsa",
+    "title": "Kendallville, IN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "260",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Fresno-Madera, CA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "260",
+    "cbsa_code": "23420",
+    "type": "cbsa",
+    "title": "Fresno, CA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "260",
+    "cbsa_code": "31460",
+    "type": "cbsa",
+    "title": "Madera, CA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "266",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Grand Rapids-Muskegon-Holland, MI Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "266",
+    "cbsa_code": "10880",
+    "type": "cbsa",
+    "title": "Allegan, MI Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "266",
+    "cbsa_code": "24340",
+    "type": "cbsa",
+    "title": "Grand Rapids-Wyoming, MI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "266",
+    "cbsa_code": "26100",
+    "type": "cbsa",
+    "title": "Holland-Grand Haven, MI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "266",
+    "cbsa_code": "34740",
+    "type": "cbsa",
+    "title": "Muskegon-Norton Shores, MI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "268",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Greensboro--Winston-Salem--High Point, NC Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "268",
+    "cbsa_code": "15500",
+    "type": "cbsa",
+    "title": "Burlington, NC Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "268",
+    "cbsa_code": "24660",
+    "type": "cbsa",
+    "title": "Greensboro-High Point, NC Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "268",
+    "cbsa_code": "34340",
+    "type": "cbsa",
+    "title": "Mount Airy, NC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "268",
+    "cbsa_code": "45640",
+    "type": "cbsa",
+    "title": "Thomasville-Lexington, NC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "268",
+    "cbsa_code": "49180",
+    "type": "cbsa",
+    "title": "Winston-Salem, NC Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "273",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Greenville-Spartanburg-Anderson, SC Combined Statistical Area         \n"
+  },
+  {
+    "csa_code": "273",
+    "cbsa_code": "11340",
+    "type": "cbsa",
+    "title": "Anderson, SC Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "273",
+    "cbsa_code": "23500",
+    "type": "cbsa",
+    "title": "Gaffney, SC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "273",
+    "cbsa_code": "24860",
+    "type": "cbsa",
+    "title": "Greenville, SC Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "273",
+    "cbsa_code": "42860",
+    "type": "cbsa",
+    "title": "Seneca, SC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "273",
+    "cbsa_code": "43900",
+    "type": "cbsa",
+    "title": "Spartanburg, SC Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "273",
+    "cbsa_code": "46420",
+    "type": "cbsa",
+    "title": "Union, SC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "274",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Gulfport-Biloxi-Pascagoula, MS Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "274",
+    "cbsa_code": "25060",
+    "type": "cbsa",
+    "title": "Gulfport-Biloxi, MS Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "274",
+    "cbsa_code": "37700",
+    "type": "cbsa",
+    "title": "Pascagoula, MS Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "276",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Harrisburg-Carlisle-Lebanon, PA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "276",
+    "cbsa_code": "25420",
+    "type": "cbsa",
+    "title": "Harrisburg-Carlisle, PA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "276",
+    "cbsa_code": "30140",
+    "type": "cbsa",
+    "title": "Lebanon, PA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "278",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Hartford-West Hartford-Willimantic, CT Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "278",
+    "cbsa_code": "25540",
+    "type": "cbsa",
+    "title": "Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "278",
+    "cbsa_code": "48740",
+    "type": "cbsa",
+    "title": "Willimantic, CT Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "288",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Houston-Baytown-Huntsville, TX Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "288",
+    "cbsa_code": "13060",
+    "type": "cbsa",
+    "title": "Bay City, TX Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "288",
+    "cbsa_code": "26420",
+    "type": "cbsa",
+    "title": "Houston-Sugar Land-Baytown, TX Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "288",
+    "cbsa_code": "26660",
+    "type": "cbsa",
+    "title": "Huntsville, TX Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "290",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Huntsville-Decatur, AL Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "290",
+    "cbsa_code": "19460",
+    "type": "cbsa",
+    "title": "Decatur, AL Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "290",
+    "cbsa_code": "26620",
+    "type": "cbsa",
+    "title": "Huntsville, AL Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "292",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Idaho Falls-Blackfoot, ID Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "292",
+    "cbsa_code": "13940",
+    "type": "cbsa",
+    "title": "Blackfoot, ID Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "292",
+    "cbsa_code": "26820",
+    "type": "cbsa",
+    "title": "Idaho Falls, ID Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "294",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Indianapolis-Anderson-Columbus, IN Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "294",
+    "cbsa_code": "11300",
+    "type": "cbsa",
+    "title": "Anderson, IN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "294",
+    "cbsa_code": "18020",
+    "type": "cbsa",
+    "title": "Columbus, IN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "294",
+    "cbsa_code": "18820",
+    "type": "cbsa",
+    "title": "Crawfordsville, IN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "294",
+    "cbsa_code": "26900",
+    "type": "cbsa",
+    "title": "Indianapolis, IN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "294",
+    "cbsa_code": "35220",
+    "type": "cbsa",
+    "title": "New Castle, IN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "294",
+    "cbsa_code": "35860",
+    "type": "cbsa",
+    "title": "North Vernon, IN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "296",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Ithaca-Cortland, NY Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "296",
+    "cbsa_code": "18660",
+    "type": "cbsa",
+    "title": "Cortland, NY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "296",
+    "cbsa_code": "27060",
+    "type": "cbsa",
+    "title": "Ithaca, NY Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "297",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Jackson-Humboldt, TN Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "297",
+    "cbsa_code": "26480",
+    "type": "cbsa",
+    "title": "Humboldt, TN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "297",
+    "cbsa_code": "27180",
+    "type": "cbsa",
+    "title": "Jackson, TN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "298",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Jackson-Yazoo City, MS Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "298",
+    "cbsa_code": "27140",
+    "type": "cbsa",
+    "title": "Jackson, MS Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "298",
+    "cbsa_code": "49540",
+    "type": "cbsa",
+    "title": "Yazoo City, MS Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "304",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Johnson City-Kingsport-Bristol (Tri-Cities), TN-VA Combined Statistical Area"
+  },
+  {
+    "csa_code": "304",
+    "cbsa_code": "27740",
+    "type": "cbsa",
+    "title": "Johnson City, TN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "304",
+    "cbsa_code": "28700",
+    "type": "cbsa",
+    "title": "Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "312",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Kansas City-Overland Park-Kansas City, MO-KS Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "312",
+    "cbsa_code": "11860",
+    "type": "cbsa",
+    "title": "Atchison, KS Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "312",
+    "cbsa_code": "28140",
+    "type": "cbsa",
+    "title": "Kansas City, MO-KS Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "312",
+    "cbsa_code": "47660",
+    "type": "cbsa",
+    "title": "Warrensburg, MO Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "314",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Knoxville-Sevierville-La Follette, TN Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "314",
+    "cbsa_code": "25340",
+    "type": "cbsa",
+    "title": "Harriman, TN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "314",
+    "cbsa_code": "28940",
+    "type": "cbsa",
+    "title": "Knoxville, TN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "314",
+    "cbsa_code": "29220",
+    "type": "cbsa",
+    "title": "La Follette, TN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "314",
+    "cbsa_code": "42940",
+    "type": "cbsa",
+    "title": "Sevierville, TN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "316",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Kokomo-Peru, IN Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "316",
+    "cbsa_code": "29020",
+    "type": "cbsa",
+    "title": "Kokomo, IN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "316",
+    "cbsa_code": "37940",
+    "type": "cbsa",
+    "title": "Peru, IN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "318",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Lafayette-Acadiana, LA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "318",
+    "cbsa_code": "10020",
+    "type": "cbsa",
+    "title": "Abbeville, LA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "318",
+    "cbsa_code": "18940",
+    "type": "cbsa",
+    "title": "Crowley, LA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "318",
+    "cbsa_code": "29180",
+    "type": "cbsa",
+    "title": "Lafayette, LA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "318",
+    "cbsa_code": "35340",
+    "type": "cbsa",
+    "title": "New Iberia, LA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "318",
+    "cbsa_code": "36660",
+    "type": "cbsa",
+    "title": "Opelousas-Eunice, LA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "320",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Lafayette-Frankfort, IN Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "320",
+    "cbsa_code": "23140",
+    "type": "cbsa",
+    "title": "Frankfort, IN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "320",
+    "cbsa_code": "29140",
+    "type": "cbsa",
+    "title": "Lafayette, IN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "324",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Lake Charles-Jennings, LA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "324",
+    "cbsa_code": "27660",
+    "type": "cbsa",
+    "title": "Jennings, LA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "324",
+    "cbsa_code": "29340",
+    "type": "cbsa",
+    "title": "Lake Charles, LA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "330",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Lansing-East Lansing-Owosso, MI Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "330",
+    "cbsa_code": "29620",
+    "type": "cbsa",
+    "title": "Lansing-East Lansing, MI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "330",
+    "cbsa_code": "37020",
+    "type": "cbsa",
+    "title": "Owosso, MI Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "332",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Las Vegas-Paradise-Pahrump, NV Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "332",
+    "cbsa_code": "29820",
+    "type": "cbsa",
+    "title": "Las Vegas-Paradise, NV Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "332",
+    "cbsa_code": "37220",
+    "type": "cbsa",
+    "title": "Pahrump, NV Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "336",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Lexington-Fayette--Frankfort--Richmond, KY Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "336",
+    "cbsa_code": "23180",
+    "type": "cbsa",
+    "title": "Frankfort, KY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "336",
+    "cbsa_code": "30460",
+    "type": "cbsa",
+    "title": "Lexington-Fayette, KY Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "336",
+    "cbsa_code": "34460",
+    "type": "cbsa",
+    "title": "Mount Sterling, KY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "336",
+    "cbsa_code": "40080",
+    "type": "cbsa",
+    "title": "Richmond-Berea, KY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "338",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Lima-Van Wert-Wapakoneta, OH Combined Statistical Area*\n"
+  },
+  {
+    "csa_code": "338",
+    "cbsa_code": "30620",
+    "type": "cbsa",
+    "title": "Lima, OH Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "338",
+    "cbsa_code": "46780",
+    "type": "cbsa",
+    "title": "Wert, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "338",
+    "cbsa_code": "47540",
+    "type": "cbsa",
+    "title": "Wapakoneta, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "340",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Little Rock-North Little Rock-Pine Bluff, AR Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "340",
+    "cbsa_code": "30780",
+    "type": "cbsa",
+    "title": "Little Rock-North Little Rock, AR Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "340",
+    "cbsa_code": "38220",
+    "type": "cbsa",
+    "title": "Pine Bluff, AR Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "340",
+    "cbsa_code": "42620",
+    "type": "cbsa",
+    "title": "Searcy, AR Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "346",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Longview-Marshall, TX Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "346",
+    "cbsa_code": "30980",
+    "type": "cbsa",
+    "title": "Longview, TX Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "346",
+    "cbsa_code": "32220",
+    "type": "cbsa",
+    "title": "Marshall, TX Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "348",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Los Angeles-Long Beach-Riverside, CA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "348",
+    "cbsa_code": "31100",
+    "type": "cbsa",
+    "title": "Los Angeles-Long Beach-Santa Ana, CA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "348",
+    "cbsa_code": "37100",
+    "type": "cbsa",
+    "title": "Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "348",
+    "cbsa_code": "40140",
+    "type": "cbsa",
+    "title": "Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "350",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Louisville-Elizabethtown-Scottsburg, KY-IN Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "350",
+    "cbsa_code": "21060",
+    "type": "cbsa",
+    "title": "Elizabethtown, KY Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "350",
+    "cbsa_code": "31140",
+    "type": "cbsa",
+    "title": "Louisville, KY-IN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "350",
+    "cbsa_code": "42500",
+    "type": "cbsa",
+    "title": "Scottsburg, IN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "352",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Lubbock-Levelland, TX Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "352",
+    "cbsa_code": "30220",
+    "type": "cbsa",
+    "title": "Levelland, TX Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "352",
+    "cbsa_code": "31180",
+    "type": "cbsa",
+    "title": "Lubbock, TX Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "354",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Lumberton-Laurinburg, NC Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "354",
+    "cbsa_code": "29900",
+    "type": "cbsa",
+    "title": "Laurinburg, NC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "354",
+    "cbsa_code": "31300",
+    "type": "cbsa",
+    "title": "Lumberton, NC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "356",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Macon-Warner Robins-Fort Valley, GA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "356",
+    "cbsa_code": "22980",
+    "type": "cbsa",
+    "title": "Fort Valley, GA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "356",
+    "cbsa_code": "31420",
+    "type": "cbsa",
+    "title": "Macon, GA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "356",
+    "cbsa_code": "47580",
+    "type": "cbsa",
+    "title": "Warner Robins, GA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "358",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Madison-Baraboo, WI Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "358",
+    "cbsa_code": "12660",
+    "type": "cbsa",
+    "title": "Baraboo, WI Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "358",
+    "cbsa_code": "31540",
+    "type": "cbsa",
+    "title": "Madison, WI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "360",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Mansfield-Bucyrus, OH Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "360",
+    "cbsa_code": "15340",
+    "type": "cbsa",
+    "title": "Bucyrus, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "360",
+    "cbsa_code": "31900",
+    "type": "cbsa",
+    "title": "Mansfield, OH Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "364",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Mayag\u00fcez-San Germ\u00e1n-Cabo Rojo, PR Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "364",
+    "cbsa_code": "32420",
+    "type": "cbsa",
+    "title": "Mayag\u00fcez, PR Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "364",
+    "cbsa_code": "41900",
+    "type": "cbsa",
+    "title": "San Germ\u00e1n-Cabo Rojo, PR Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "372",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Midland-Odessa, TX Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "372",
+    "cbsa_code": "33260",
+    "type": "cbsa",
+    "title": "Midland, TX Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "372",
+    "cbsa_code": "36220",
+    "type": "cbsa",
+    "title": "Odessa, TX Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "376",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Milwaukee-Racine-Waukesha, WI Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "376",
+    "cbsa_code": "33340",
+    "type": "cbsa",
+    "title": "Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "376",
+    "cbsa_code": "39540",
+    "type": "cbsa",
+    "title": "Racine, WI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "378",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Minneapolis-St. Paul-St. Cloud, MN-WI Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "378",
+    "cbsa_code": "22060",
+    "type": "cbsa",
+    "title": "Faribault-Northfield, MN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "378",
+    "cbsa_code": "26780",
+    "type": "cbsa",
+    "title": "Hutchinson, MN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "378",
+    "cbsa_code": "33460",
+    "type": "cbsa",
+    "title": "Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "378",
+    "cbsa_code": "39860",
+    "type": "cbsa",
+    "title": "Red Wing, MN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "378",
+    "cbsa_code": "41060",
+    "type": "cbsa",
+    "title": "St. Cloud, MN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "380",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Mobile-Daphne-Fairhope, AL Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "380",
+    "cbsa_code": "19300",
+    "type": "cbsa",
+    "title": "Daphne-Fairhope, AL Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "380",
+    "cbsa_code": "33660",
+    "type": "cbsa",
+    "title": "Mobile, AL Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "384",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Monroe-Bastrop, LA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "384",
+    "cbsa_code": "12820",
+    "type": "cbsa",
+    "title": "Bastrop, LA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "384",
+    "cbsa_code": "33740",
+    "type": "cbsa",
+    "title": "Monroe, LA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "388",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Montgomery-Alexander City, AL Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "388",
+    "cbsa_code": "10760",
+    "type": "cbsa",
+    "title": "Alexander City, AL Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "388",
+    "cbsa_code": "33860",
+    "type": "cbsa",
+    "title": "Montgomery, AL Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "392",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Morristown-Newport, TN Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "392",
+    "cbsa_code": "34100",
+    "type": "cbsa",
+    "title": "Morristown, TN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "392",
+    "cbsa_code": "35460",
+    "type": "cbsa",
+    "title": "Newport, TN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "396",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Myrtle Beach-Conway-Georgetown, SC Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "396",
+    "cbsa_code": "23860",
+    "type": "cbsa",
+    "title": "Georgetown, SC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "396",
+    "cbsa_code": "34820",
+    "type": "cbsa",
+    "title": "Myrtle Beach-Conway-North Myrtle Beach, SC Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "400",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Nashville-Davidson--Murfreesboro--Columbia, TN Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "400",
+    "cbsa_code": "17940",
+    "type": "cbsa",
+    "title": "Columbia, TN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "400",
+    "cbsa_code": "34980",
+    "type": "cbsa",
+    "title": "Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "406",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "New Orleans-Metairie-Bogalusa, LA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "406",
+    "cbsa_code": "14220",
+    "type": "cbsa",
+    "title": "Bogalusa, LA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "406",
+    "cbsa_code": "35380",
+    "type": "cbsa",
+    "title": "New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "408",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "New York-Newark-Bridgeport, NY-NJ-CT-PA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "408",
+    "cbsa_code": "14860",
+    "type": "cbsa",
+    "title": "Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "408",
+    "cbsa_code": "28740",
+    "type": "cbsa",
+    "title": "Kingston, NY Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "408",
+    "cbsa_code": "35300",
+    "type": "cbsa",
+    "title": "New Haven-Milford, CT Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "408",
+    "cbsa_code": "35620",
+    "type": "cbsa",
+    "title": "New York-Northern New Jersey-Long Island, NY-NJ-PA Metropolitan Statistic"
+  },
+  {
+    "csa_code": "408",
+    "cbsa_code": "39100",
+    "type": "cbsa",
+    "title": "Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "408",
+    "cbsa_code": "45860",
+    "type": "cbsa",
+    "title": "Torrington, CT Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "408",
+    "cbsa_code": "45940",
+    "type": "cbsa",
+    "title": "Trenton-Ewing, NJ Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "416",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Oklahoma City-Shawnee, OK Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "416",
+    "cbsa_code": "36420",
+    "type": "cbsa",
+    "title": "Oklahoma City, OK Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "416",
+    "cbsa_code": "43060",
+    "type": "cbsa",
+    "title": "Shawnee, OK Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "420",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Omaha-Council Bluffs-Fremont, NE-IA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "420",
+    "cbsa_code": "23340",
+    "type": "cbsa",
+    "title": "Fremont, NE Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "420",
+    "cbsa_code": "36540",
+    "type": "cbsa",
+    "title": "Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "422",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Orlando-The Villages, FL Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "422",
+    "cbsa_code": "36740",
+    "type": "cbsa",
+    "title": "Orlando-Kissimmee, FL Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "422",
+    "cbsa_code": "45540",
+    "type": "cbsa",
+    "title": "The Villages, FL Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "424",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Paducah-Mayfield, KY-IL Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "424",
+    "cbsa_code": "32460",
+    "type": "cbsa",
+    "title": "Mayfield, KY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "424",
+    "cbsa_code": "37140",
+    "type": "cbsa",
+    "title": "Paducah, KY-IL Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "426",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Peoria-Canton, IL Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "426",
+    "cbsa_code": "15900",
+    "type": "cbsa",
+    "title": "Canton, IL Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "426",
+    "cbsa_code": "37900",
+    "type": "cbsa",
+    "title": "Peoria, IL Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "428",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Philadelphia-Camden-Vineland, PA-NJ-DE-MD Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "428",
+    "cbsa_code": "37980",
+    "type": "cbsa",
+    "title": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metropolitan Statistical Area"
+  },
+  {
+    "csa_code": "428",
+    "cbsa_code": "47220",
+    "type": "cbsa",
+    "title": "Vineland-Millville-Bridgeton, NJ Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "430",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Pittsburgh-New Castle, PA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "430",
+    "cbsa_code": "35260",
+    "type": "cbsa",
+    "title": "New Castle, PA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "430",
+    "cbsa_code": "38300",
+    "type": "cbsa",
+    "title": "Pittsburgh, PA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "434",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Ponce-Yauco-Coamo, PR Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "434",
+    "cbsa_code": "17620",
+    "type": "cbsa",
+    "title": "Coamo, PR Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "434",
+    "cbsa_code": "38660",
+    "type": "cbsa",
+    "title": "Ponce, PR Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "434",
+    "cbsa_code": "42180",
+    "type": "cbsa",
+    "title": "Santa Isabel, PR Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "434",
+    "cbsa_code": "49500",
+    "type": "cbsa",
+    "title": "Yauco, PR Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "438",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Portland-Lewiston-South Portland, ME Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "438",
+    "cbsa_code": "30340",
+    "type": "cbsa",
+    "title": "Lewiston-Auburn, ME Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "438",
+    "cbsa_code": "38860",
+    "type": "cbsa",
+    "title": "Portland-South Portland-Biddeford, ME Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "450",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Raleigh-Durham-Cary, NC Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "450",
+    "cbsa_code": "20380",
+    "type": "cbsa",
+    "title": "Dunn, NC Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "450",
+    "cbsa_code": "20500",
+    "type": "cbsa",
+    "title": "Durham, NC Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "450",
+    "cbsa_code": "39580",
+    "type": "cbsa",
+    "title": "Raleigh-Cary, NC Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "464",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Rochester-Batavia-Seneca Falls, NY Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "464",
+    "cbsa_code": "12860",
+    "type": "cbsa",
+    "title": "Batavia, NY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "464",
+    "cbsa_code": "40380",
+    "type": "cbsa",
+    "title": "Rochester, NY Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "464",
+    "cbsa_code": "42900",
+    "type": "cbsa",
+    "title": "Seneca Falls, NY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "466",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Rockford-Freeport-Rochelle, IL Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "466",
+    "cbsa_code": "23300",
+    "type": "cbsa",
+    "title": "Freeport, IL Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "466",
+    "cbsa_code": "40300",
+    "type": "cbsa",
+    "title": "Rochelle, IL Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "466",
+    "cbsa_code": "40420",
+    "type": "cbsa",
+    "title": "Rockford, IL Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "472",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Sacramento--Arden-Arcade--Truckee, CA-NV Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "472",
+    "cbsa_code": "23820",
+    "type": "cbsa",
+    "title": "Gardnerville Ranchos, NV Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "472",
+    "cbsa_code": "40900",
+    "type": "cbsa",
+    "title": "Sacramento--Arden-Arcade--Roseville, CA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "472",
+    "cbsa_code": "46020",
+    "type": "cbsa",
+    "title": "Truckee-Grass Valley, CA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "474",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Saginaw-Bay City-Saginaw Township North, MI Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "474",
+    "cbsa_code": "13020",
+    "type": "cbsa",
+    "title": "Bay City, MI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "474",
+    "cbsa_code": "40980",
+    "type": "cbsa",
+    "title": "Saginaw-Saginaw Township North, MI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "476",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "St. Louis-St. Charles-Farmington, MO-IL Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "476",
+    "cbsa_code": "22100",
+    "type": "cbsa",
+    "title": "Farmington, MO Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "476",
+    "cbsa_code": "41180",
+    "type": "cbsa",
+    "title": "St. Louis, MO-IL Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "480",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Salisbury-Ocean Pines, MD Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "480",
+    "cbsa_code": "36180",
+    "type": "cbsa",
+    "title": "Ocean Pines, MD Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "480",
+    "cbsa_code": "41540",
+    "type": "cbsa",
+    "title": "Salisbury, MD Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "482",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Salt Lake City-Ogden-Clearfield, UT Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "482",
+    "cbsa_code": "14940",
+    "type": "cbsa",
+    "title": "Brigham City, UT Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "482",
+    "cbsa_code": "25720",
+    "type": "cbsa",
+    "title": "Heber, UT Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "482",
+    "cbsa_code": "36260",
+    "type": "cbsa",
+    "title": "Ogden-Clearfield, UT Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "482",
+    "cbsa_code": "41620",
+    "type": "cbsa",
+    "title": "Salt Lake City, UT Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "488",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "San Jose-San Francisco-Oakland, CA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "488",
+    "cbsa_code": "34900",
+    "type": "cbsa",
+    "title": "Napa, CA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "488",
+    "cbsa_code": "41860",
+    "type": "cbsa",
+    "title": "San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "488",
+    "cbsa_code": "41940",
+    "type": "cbsa",
+    "title": "San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "488",
+    "cbsa_code": "42100",
+    "type": "cbsa",
+    "title": "Santa Cruz-Watsonville, CA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "488",
+    "cbsa_code": "42220",
+    "type": "cbsa",
+    "title": "Santa Rosa-Petaluma, CA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "488",
+    "cbsa_code": "46700",
+    "type": "cbsa",
+    "title": "Vallejo-Fairfield, CA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "490",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "San Juan-Caguas-Fajardo, PR Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "490",
+    "cbsa_code": "21940",
+    "type": "cbsa",
+    "title": "Fajardo, PR Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "490",
+    "cbsa_code": "41980",
+    "type": "cbsa",
+    "title": "San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "490",
+    "cbsa_code": "46580",
+    "type": "cbsa",
+    "title": "Utuado, PR Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "492",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Santa Fe-Espanola, NM Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "492",
+    "cbsa_code": "21580",
+    "type": "cbsa",
+    "title": "Espanola, NM Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "492",
+    "cbsa_code": "42140",
+    "type": "cbsa",
+    "title": "Santa Fe, NM Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "496",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Savannah-Hinesville-Fort Stewart, GA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "496",
+    "cbsa_code": "25980",
+    "type": "cbsa",
+    "title": "Hinesville-Fort Stewart, GA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "496",
+    "cbsa_code": "42340",
+    "type": "cbsa",
+    "title": "Savannah, GA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "500",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Seattle-Tacoma-Olympia, WA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "500",
+    "cbsa_code": "14740",
+    "type": "cbsa",
+    "title": "Bremerton-Silverdale, WA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "500",
+    "cbsa_code": "36020",
+    "type": "cbsa",
+    "title": "Oak Harbor, WA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "500",
+    "cbsa_code": "36500",
+    "type": "cbsa",
+    "title": "Olympia, WA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "500",
+    "cbsa_code": "42660",
+    "type": "cbsa",
+    "title": "Seattle-Tacoma-Bellevue, WA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "500",
+    "cbsa_code": "43220",
+    "type": "cbsa",
+    "title": "Shelton, WA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "508",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Shreveport-Bossier City-Minden, LA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "508",
+    "cbsa_code": "33380",
+    "type": "cbsa",
+    "title": "Minden, LA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "508",
+    "cbsa_code": "43340",
+    "type": "cbsa",
+    "title": "Shreveport-Bossier City, LA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "512",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Sioux City-Vermillion, IA-NE-SD Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "512",
+    "cbsa_code": "43580",
+    "type": "cbsa",
+    "title": "Sioux City, IA-NE-SD Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "512",
+    "cbsa_code": "46820",
+    "type": "cbsa",
+    "title": "Vermillion, SD Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "526",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Sunbury-Lewisburg-Selinsgrove, PA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "526",
+    "cbsa_code": "30260",
+    "type": "cbsa",
+    "title": "Lewisburg, PA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "526",
+    "cbsa_code": "42780",
+    "type": "cbsa",
+    "title": "Selinsgrove, PA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "526",
+    "cbsa_code": "44980",
+    "type": "cbsa",
+    "title": "Sunbury, PA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "532",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Syracuse-Auburn, NY Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "532",
+    "cbsa_code": "12180",
+    "type": "cbsa",
+    "title": "Auburn, NY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "532",
+    "cbsa_code": "45060",
+    "type": "cbsa",
+    "title": "Syracuse, NY Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "534",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Toledo-Fremont, OH Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "534",
+    "cbsa_code": "23380",
+    "type": "cbsa",
+    "title": "Fremont, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "534",
+    "cbsa_code": "45780",
+    "type": "cbsa",
+    "title": "Toledo, OH Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "538",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Tulsa-Bartlesville, OK Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "538",
+    "cbsa_code": "12780",
+    "type": "cbsa",
+    "title": "Bartlesville, OK Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "538",
+    "cbsa_code": "46140",
+    "type": "cbsa",
+    "title": "Tulsa, OK Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "540",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Tyler-Jacksonville, TX Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "540",
+    "cbsa_code": "27380",
+    "type": "cbsa",
+    "title": "Jacksonville, TX Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "540",
+    "cbsa_code": "46340",
+    "type": "cbsa",
+    "title": "Tyler, TX Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "542",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Union City-Martin, TN-KY Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "542",
+    "cbsa_code": "32280",
+    "type": "cbsa",
+    "title": "Martin, TN Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "542",
+    "cbsa_code": "46460",
+    "type": "cbsa",
+    "title": "Union City, TN-KY Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "548",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Washington-Baltimore-Northern Virginia, DC-MD-VA-WV Combined Statistical Are"
+  },
+  {
+    "csa_code": "548",
+    "cbsa_code": "12580",
+    "type": "cbsa",
+    "title": "Baltimore-Towson, MD Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "548",
+    "cbsa_code": "19020",
+    "type": "cbsa",
+    "title": "Culpeper, VA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "548",
+    "cbsa_code": "30500",
+    "type": "cbsa",
+    "title": "Lexington Park, MD Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "548",
+    "cbsa_code": "47900",
+    "type": "cbsa",
+    "title": "Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Statistical Are"
+  },
+  {
+    "csa_code": "548",
+    "cbsa_code": "49020",
+    "type": "cbsa",
+    "title": "Winchester, VA-WV Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "554",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Wausau-Merrill, WI Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "554",
+    "cbsa_code": "32980",
+    "type": "cbsa",
+    "title": "Merrill, WI Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "554",
+    "cbsa_code": "48140",
+    "type": "cbsa",
+    "title": "Wausau, WI Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "556",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Wichita-Winfield, KS Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "556",
+    "cbsa_code": "48620",
+    "type": "cbsa",
+    "title": "Wichita, KS Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "556",
+    "cbsa_code": "49060",
+    "type": "cbsa",
+    "title": "Winfield, KS Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "558",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Williamsport-Lock Haven, PA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "558",
+    "cbsa_code": "30820",
+    "type": "cbsa",
+    "title": "Lock Haven, PA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "558",
+    "cbsa_code": "48700",
+    "type": "cbsa",
+    "title": "Williamsport, PA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "564",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "York-Hanover-Gettysburg, PA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "564",
+    "cbsa_code": "23900",
+    "type": "cbsa",
+    "title": "Gettysburg, PA Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "564",
+    "cbsa_code": "49620",
+    "type": "cbsa",
+    "title": "York-Hanover, PA Metropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "566",
+    "cbsa_code": "",
+    "type": "csa",
+    "title": "Youngstown-Warren-East Liverpool, OH-PA Combined Statistical Area\n"
+  },
+  {
+    "csa_code": "566",
+    "cbsa_code": "20620",
+    "type": "cbsa",
+    "title": "East Liverpool-Salem, OH Micropolitan Statistical Area\n"
+  },
+  {
+    "csa_code": "566",
+    "cbsa_code": "49660",
+    "type": "cbsa",
+    "title": "Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area\n"
+  }
+]

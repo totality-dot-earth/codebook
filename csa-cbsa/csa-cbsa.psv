@@ -1,0 +1,454 @@
+csa|102||Albany-Corvallis-Lebanon, OR Combined Statistical Area
+cbsa|102|10540|Albany-Lebanon, OR Micropolitan Statistical Area
+cbsa|102|18700|Corvallis, OR Metropolitan Statistical Area
+csa|104||Albany-Schenectady-Amsterdam, NY Combined Statistical Area
+cbsa|104|10580|Albany-Schenectady-Troy, NY Metropolitan Statistical Area
+cbsa|104|11220|Amsterdam, NY Micropolitan Statistical Area
+cbsa|104|24020|Glens Falls, NY Metropolitan Statistical Area
+cbsa|104|24100|Gloversville, NY Micropolitan Statistical Area
+cbsa|104|26460|Hudson, NY Micropolitan Statistical Area
+csa|112||Ames-Boone, IA Combined Statistical Area
+cbsa|112|11180|Ames, IA Metropolitan Statistical Area
+cbsa|112|14340|Boone, IA Micropolitan Statistical Area
+csa|118||Appleton-Oshkosh-Neenah, WI Combined Statistical Area
+cbsa|118|11540|Appleton, WI Metropolitan Statistical Area
+cbsa|118|36780|Oshkosh-Neenah, WI Metropolitan Statistical Area
+csa|120||Asheville-Brevard, NC Combined Statistical Area
+cbsa|120|11700|Asheville, NC Metropolitan Statistical Area
+cbsa|120|14820|Brevard, NC Micropolitan Statistical Area
+csa|122||Atlanta-Sandy Springs-Gainesville, GA-AL Combined Statistical Area
+cbsa|122|12060|Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area
+cbsa|122|16340|Cedartown, GA Micropolitan Statistical Area
+cbsa|122|23580|Gainesville, GA Metropolitan Statistical Area
+cbsa|122|29300|LaGrange, GA Micropolitan Statistical Area
+cbsa|122|45580|Thomaston, GA Micropolitan Statistical Area
+cbsa|122|46740|Valley, AL Micropolitan Statistical Area
+csa|132||Baton Rouge-Pierre Part, LA Combined Statistical Area
+cbsa|132|12940|Baton Rouge, LA Metropolitan Statistical Area
+cbsa|132|38200|Pierre Part, LA Micropolitan Statistical Area
+csa|138||Beckley-Oak Hill, WV Combined Statistical Area
+cbsa|138|13220|Beckley, WV Micropolitan Statistical Area
+cbsa|138|36060|Oak Hill, WV Micropolitan Statistical Area
+csa|140||Bend-Prineville, OR Combined Statistical Area
+cbsa|140|13460|Bend, OR Metropolitan Statistical Area
+cbsa|140|39260|Prineville, OR Micropolitan Statistical Area
+csa|142||Birmingham-Hoover-Cullman, AL Combined Statistical Area
+cbsa|142|13820|Birmingham-Hoover, AL Metropolitan Statistical Area
+cbsa|142|18980|Cullman, AL Micropolitan Statistical Area
+csa|148||Boston-Worcester-Manchester, MA-NH Combined Statistical Area
+cbsa|148|14460|Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area
+cbsa|148|18180|Concord, NH Micropolitan Statistical Area
+cbsa|148|29060|Laconia, NH Micropolitan Statistical Area
+cbsa|148|31700|Manchester-Nashua, NH Metropolitan Statistical Area
+cbsa|148|49340|Worcester, MA Metropolitan Statistical Area
+csa|154||Brownsville-Harlingen-Raymondville, TX Combined Statistical Area
+cbsa|154|15180|Brownsville-Harlingen, TX Metropolitan Statistical Area
+cbsa|154|39700|Raymondville, TX Micropolitan Statistical Area
+csa|160||Buffalo-Niagara-Cattaraugus, NY Combined Statistical Area
+cbsa|160|15380|Buffalo-Niagara Falls, NY Metropolitan Statistical Area
+cbsa|160|36460|Olean, NY Micropolitan Statistical Area
+csa|164||Cape Girardeau-Sikeston-Jackson, MO-IL Combined Statistical Area
+cbsa|164|16020|Cape Girardeau-Jackson, MO-IL Micropolitan Statistical Area
+cbsa|164|43460|Sikeston, MO Micropolitan Statistical Area
+csa|172||Charlotte-Gastonia-Salisbury, NC-SC Combined Statistical Area
+cbsa|172|10620|Albemarle, NC Micropolitan Statistical Area
+cbsa|172|16740|Charlotte-Gastonia-Concord, NC-SC Metropolitan Statistical Area
+cbsa|172|16900|Chester, SC Micropolitan Statistical Area
+cbsa|172|29580|Lancaster, SC Micropolitan Statistical Area
+cbsa|172|30740|Lincolnton, NC Micropolitan Statistical Area
+cbsa|172|41580|Salisbury, NC Micropolitan Statistical Area
+cbsa|172|43140|Shelby, NC Micropolitan Statistical Area
+cbsa|172|44380|Statesville-Mooresville, NC Micropolitan Statistical Area
+csa|174||Chattanooga-Cleveland-Athens, TN-GA Combined Statistical Area
+cbsa|174|11940|Athens, TN Micropolitan Statistical Area
+cbsa|174|16860|Chattanooga, TN-GA Metropolitan Statistical Area
+cbsa|174|17420|Cleveland, TN Metropolitan Statistical Area
+csa|176||Chicago-Naperville-Michigan City, IL-IN-WI Combined Statistical Area
+cbsa|176|16980|Chicago-Naperville-Joliet, IL-IN-WI Metropolitan Statistical Area
+cbsa|176|28100|Kankakee-Bradley, IL Metropolitan Statistical Area
+cbsa|176|33140|Michigan City-La Porte, IN Metropolitan Statistical Area
+csa|178||Cincinnati-Middletown-Wilmington, OH-KY-IN Combined Statistical Area
+cbsa|178|17140|Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area
+cbsa|178|48940|Wilmington, OH Micropolitan Statistical Area
+csa|180||Claremont-Lebanon, NH-VT Combined Statistical Area
+cbsa|180|17200|Claremont, NH Micropolitan Statistical Area
+cbsa|180|30100|Lebanon, NH-VT Micropolitan Statistical Area
+csa|184||Cleveland-Akron-Elyria, OH Combined Statistical Area
+cbsa|184|10420|Akron, OH Metropolitan Statistical Area
+cbsa|184|11780|Ashtabula, OH Micropolitan Statistical Area
+cbsa|184|17460|Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area
+csa|188||Clovis-Portales, NM Combined Statistical Area
+cbsa|188|17580|Clovis, NM Micropolitan Statistical Area
+cbsa|188|38780|Portales, NM Micropolitan Statistical Area
+csa|192||Columbia-Newberry, SC Combined Statistical Area
+cbsa|192|17900|Columbia, SC Metropolitan Statistical Area
+cbsa|192|35140|Newberry, SC Micropolitan Statistical Area
+csa|194||Columbus-Auburn-Opelika, GA-AL Combined Statistical Area
+cbsa|194|12220|Auburn-Opelika, AL Metropolitan Statistical Area
+cbsa|194|17980|Columbus, GA-AL Metropolitan Statistical Area
+cbsa|194|46260|Tuskegee, AL Micropolitan Statistical Area
+csa|198||Columbus-Marion-Chillicothe, OH Combined Statistical Area
+cbsa|198|17060|Chillicothe, OH Micropolitan Statistical Area
+cbsa|198|18140|Columbus, OH Metropolitan Statistical Area
+cbsa|198|32020|Marion, OH Micropolitan Statistical Area
+cbsa|198|34540|Mount Vernon, OH Micropolitan Statistical Area
+cbsa|198|47860|Washington, OH Micropolitan Statistical Area
+csa|200||Columbus-West Point, MS Combined Statistical Area
+cbsa|200|18060|Columbus, MS Micropolitan Statistical Area
+cbsa|200|48500|West Point, MS Micropolitan Statistical Area
+csa|202||Corbin-London, KY Combined Statistical Area
+cbsa|202|18340|Corbin, KY Micropolitan Statistical Area
+cbsa|202|30940|London, KY Micropolitan Statistical Area
+csa|204||Corpus Christi-Kingsville, TX Combined Statistical Area
+cbsa|204|18580|Corpus Christi, TX Metropolitan Statistical Area
+cbsa|204|28780|Kingsville, TX Micropolitan Statistical Area
+csa|206||Dallas-Fort Worth, TX Combined Statistical Area
+cbsa|206|11980|Athens, TX Micropolitan Statistical Area
+cbsa|206|14300|Bonham, TX Micropolitan Statistical Area
+cbsa|206|19100|Dallas-Fort Worth-Arlington, TX Metropolitan Statistical Area
+cbsa|206|23620|Gainesville, TX Micropolitan Statistical Area
+cbsa|206|24180|Granbury, TX Micropolitan Statistical Area
+cbsa|206|33420|Mineral Wells, TX Micropolitan Statistical Area
+csa|212||Dayton-Springfield-Greenville, OH Combined Statistical Area
+cbsa|212|19380|Dayton, OH Metropolitan Statistical Area
+cbsa|212|24820|Greenville, OH Micropolitan Statistical Area
+cbsa|212|44220|Springfield, OH Metropolitan Statistical Area
+cbsa|212|46500|Urbana, OH Micropolitan Statistical Area
+csa|214||Deltona-Daytona Beach-Palm Coast, FL Combined Statistical Area
+cbsa|214|19660|Deltona-Daytona Beach-Ormond Beach, FL Metropolitan Statistical Area
+cbsa|214|37380|Palm Coast, FL Micropolitan Statistical Area
+csa|216||Denver-Aurora-Boulder, CO Combined Statistical Area
+cbsa|216|14500|Boulder, CO Metropolitan Statistical Area
+cbsa|216|19740|Denver-Aurora, CO Metropolitan Statistical Area
+csa|218||Des Moines-Newton-Pella, IA Combined Statistical Area
+cbsa|218|19780|Des Moines, IA Metropolitan Statistical Area
+cbsa|218|35500|Newton, IA Micropolitan Statistical Area
+cbsa|218|37800|Pella, IA Micropolitan Statistical Area
+csa|220||Detroit-Warren-Flint, MI Combined Statistical Area
+cbsa|220|11460|Ann Arbor, MI Metropolitan Statistical Area
+cbsa|220|19820|Detroit-Warren-Livonia, MI Metropolitan Statistical Area
+cbsa|220|22420|Flint, MI Metropolitan Statistical Area
+cbsa|220|33780|Monroe, MI Metropolitan Statistical Area
+csa|222||Dothan-Enterprise-Ozark, AL Combined Statistical Area
+cbsa|222|20020|Dothan, AL Metropolitan Statistical Area
+cbsa|222|21460|Enterprise-Ozark, AL Micropolitan Statistical Area
+csa|232||Eau Claire-Menomonie, WI Combined Statistical Area
+cbsa|232|20740|Eau Claire, WI Metropolitan Statistical Area
+cbsa|232|32860|Menomonie, WI Micropolitan Statistical Area
+csa|242||Fairmont-Clarksburg, WV Combined Statistical Area
+cbsa|242|17220|Clarksburg, WV Micropolitan Statistical Area
+cbsa|242|21900|Fairmont, WV Micropolitan Statistical Area
+csa|244||Fargo-Wahpeton, ND-MN Combined Statistical Area
+cbsa|244|22020|Fargo, ND-MN Metropolitan Statistical Area
+cbsa|244|47420|Wahpeton, ND-MN Micropolitan Statistical Area
+csa|248||Findlay-Tiffin, OH Combined Statistical Area
+cbsa|248|22300|Findlay, OH Micropolitan Statistical Area
+cbsa|248|45660|Tiffin, OH Micropolitan Statistical Area
+csa|252||Fond du Lac-Beaver Dam, WI Combined Statistical Area
+cbsa|252|13180|Beaver Dam, WI Micropolitan Statistical Area
+cbsa|252|22540|Fond du Lac, WI Metropolitan Statistical Area
+csa|256||Fort Polk South-De Ridder, LA Combined Statistical Area
+cbsa|256|19760|De Ridder, LA Micropolitan Statistical Area
+cbsa|256|22860|Fort Polk South, LA Micropolitan Statistical Area
+csa|258||Fort Wayne-Huntington-Auburn, IN Combined Statistical Area
+cbsa|258|12140|Auburn, IN Micropolitan Statistical Area
+cbsa|258|19540|Decatur, IN Micropolitan Statistical Area
+cbsa|258|23060|Fort Wayne, IN Metropolitan Statistical Area
+cbsa|258|26540|Huntington, IN Micropolitan Statistical Area
+cbsa|258|28340|Kendallville, IN Micropolitan Statistical Area
+csa|260||Fresno-Madera, CA Combined Statistical Area
+cbsa|260|23420|Fresno, CA Metropolitan Statistical Area
+cbsa|260|31460|Madera, CA Metropolitan Statistical Area
+csa|266||Grand Rapids-Muskegon-Holland, MI Combined Statistical Area
+cbsa|266|10880|Allegan, MI Micropolitan Statistical Area
+cbsa|266|24340|Grand Rapids-Wyoming, MI Metropolitan Statistical Area
+cbsa|266|26100|Holland-Grand Haven, MI Metropolitan Statistical Area
+cbsa|266|34740|Muskegon-Norton Shores, MI Metropolitan Statistical Area
+csa|268||Greensboro--Winston-Salem--High Point, NC Combined Statistical Area
+cbsa|268|15500|Burlington, NC Metropolitan Statistical Area
+cbsa|268|24660|Greensboro-High Point, NC Metropolitan Statistical Area
+cbsa|268|34340|Mount Airy, NC Micropolitan Statistical Area
+cbsa|268|45640|Thomasville-Lexington, NC Micropolitan Statistical Area
+cbsa|268|49180|Winston-Salem, NC Metropolitan Statistical Area
+csa|273||Greenville-Spartanburg-Anderson, SC Combined Statistical Area         
+cbsa|273|11340|Anderson, SC Metropolitan Statistical Area
+cbsa|273|23500|Gaffney, SC Micropolitan Statistical Area
+cbsa|273|24860|Greenville, SC Metropolitan Statistical Area
+cbsa|273|42860|Seneca, SC Micropolitan Statistical Area
+cbsa|273|43900|Spartanburg, SC Metropolitan Statistical Area
+cbsa|273|46420|Union, SC Micropolitan Statistical Area
+csa|274||Gulfport-Biloxi-Pascagoula, MS Combined Statistical Area
+cbsa|274|25060|Gulfport-Biloxi, MS Metropolitan Statistical Area
+cbsa|274|37700|Pascagoula, MS Metropolitan Statistical Area
+csa|276||Harrisburg-Carlisle-Lebanon, PA Combined Statistical Area
+cbsa|276|25420|Harrisburg-Carlisle, PA Metropolitan Statistical Area
+cbsa|276|30140|Lebanon, PA Metropolitan Statistical Area
+csa|278||Hartford-West Hartford-Willimantic, CT Combined Statistical Area
+cbsa|278|25540|Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area
+cbsa|278|48740|Willimantic, CT Micropolitan Statistical Area
+csa|288||Houston-Baytown-Huntsville, TX Combined Statistical Area
+cbsa|288|13060|Bay City, TX Micropolitan Statistical Area
+cbsa|288|26420|Houston-Sugar Land-Baytown, TX Metropolitan Statistical Area
+cbsa|288|26660|Huntsville, TX Micropolitan Statistical Area
+csa|290||Huntsville-Decatur, AL Combined Statistical Area
+cbsa|290|19460|Decatur, AL Metropolitan Statistical Area
+cbsa|290|26620|Huntsville, AL Metropolitan Statistical Area
+csa|292||Idaho Falls-Blackfoot, ID Combined Statistical Area
+cbsa|292|13940|Blackfoot, ID Micropolitan Statistical Area
+cbsa|292|26820|Idaho Falls, ID Metropolitan Statistical Area
+csa|294||Indianapolis-Anderson-Columbus, IN Combined Statistical Area
+cbsa|294|11300|Anderson, IN Metropolitan Statistical Area
+cbsa|294|18020|Columbus, IN Metropolitan Statistical Area
+cbsa|294|18820|Crawfordsville, IN Micropolitan Statistical Area
+cbsa|294|26900|Indianapolis, IN Metropolitan Statistical Area
+cbsa|294|35220|New Castle, IN Micropolitan Statistical Area
+cbsa|294|35860|North Vernon, IN Micropolitan Statistical Area
+csa|296||Ithaca-Cortland, NY Combined Statistical Area
+cbsa|296|18660|Cortland, NY Micropolitan Statistical Area
+cbsa|296|27060|Ithaca, NY Metropolitan Statistical Area
+csa|297||Jackson-Humboldt, TN Combined Statistical Area
+cbsa|297|26480|Humboldt, TN Micropolitan Statistical Area
+cbsa|297|27180|Jackson, TN Metropolitan Statistical Area
+csa|298||Jackson-Yazoo City, MS Combined Statistical Area
+cbsa|298|27140|Jackson, MS Metropolitan Statistical Area
+cbsa|298|49540|Yazoo City, MS Micropolitan Statistical Area
+csa|304||Johnson City-Kingsport-Bristol (Tri-Cities), TN-VA Combined Statistical Areacbsa|304|27740|Johnson City, TN Metropolitan Statistical Area
+cbsa|304|28700|Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area
+csa|312||Kansas City-Overland Park-Kansas City, MO-KS Combined Statistical Area
+cbsa|312|11860|Atchison, KS Micropolitan Statistical Area
+cbsa|312|28140|Kansas City, MO-KS Metropolitan Statistical Area
+cbsa|312|47660|Warrensburg, MO Micropolitan Statistical Area
+csa|314||Knoxville-Sevierville-La Follette, TN Combined Statistical Area
+cbsa|314|25340|Harriman, TN Micropolitan Statistical Area
+cbsa|314|28940|Knoxville, TN Metropolitan Statistical Area
+cbsa|314|29220|La Follette, TN Micropolitan Statistical Area
+cbsa|314|42940|Sevierville, TN Micropolitan Statistical Area
+csa|316||Kokomo-Peru, IN Combined Statistical Area
+cbsa|316|29020|Kokomo, IN Metropolitan Statistical Area
+cbsa|316|37940|Peru, IN Micropolitan Statistical Area
+csa|318||Lafayette-Acadiana, LA Combined Statistical Area
+cbsa|318|10020|Abbeville, LA Micropolitan Statistical Area
+cbsa|318|18940|Crowley, LA Micropolitan Statistical Area
+cbsa|318|29180|Lafayette, LA Metropolitan Statistical Area
+cbsa|318|35340|New Iberia, LA Micropolitan Statistical Area
+cbsa|318|36660|Opelousas-Eunice, LA Micropolitan Statistical Area
+csa|320||Lafayette-Frankfort, IN Combined Statistical Area
+cbsa|320|23140|Frankfort, IN Micropolitan Statistical Area
+cbsa|320|29140|Lafayette, IN Metropolitan Statistical Area
+csa|324||Lake Charles-Jennings, LA Combined Statistical Area
+cbsa|324|27660|Jennings, LA Micropolitan Statistical Area
+cbsa|324|29340|Lake Charles, LA Metropolitan Statistical Area
+csa|330||Lansing-East Lansing-Owosso, MI Combined Statistical Area
+cbsa|330|29620|Lansing-East Lansing, MI Metropolitan Statistical Area
+cbsa|330|37020|Owosso, MI Micropolitan Statistical Area
+csa|332||Las Vegas-Paradise-Pahrump, NV Combined Statistical Area
+cbsa|332|29820|Las Vegas-Paradise, NV Metropolitan Statistical Area
+cbsa|332|37220|Pahrump, NV Micropolitan Statistical Area
+csa|336||Lexington-Fayette--Frankfort--Richmond, KY Combined Statistical Area
+cbsa|336|23180|Frankfort, KY Micropolitan Statistical Area
+cbsa|336|30460|Lexington-Fayette, KY Metropolitan Statistical Area
+cbsa|336|34460|Mount Sterling, KY Micropolitan Statistical Area
+cbsa|336|40080|Richmond-Berea, KY Micropolitan Statistical Area
+csa|338||Lima-Van Wert-Wapakoneta, OH Combined Statistical Area*
+cbsa|338|30620|Lima, OH Metropolitan Statistical Area
+cbsa|338|46780|Wert, OH Micropolitan Statistical Area
+cbsa|338|47540|Wapakoneta, OH Micropolitan Statistical Area
+csa|340||Little Rock-North Little Rock-Pine Bluff, AR Combined Statistical Area
+cbsa|340|30780|Little Rock-North Little Rock, AR Metropolitan Statistical Area
+cbsa|340|38220|Pine Bluff, AR Metropolitan Statistical Area
+cbsa|340|42620|Searcy, AR Micropolitan Statistical Area
+csa|346||Longview-Marshall, TX Combined Statistical Area
+cbsa|346|30980|Longview, TX Metropolitan Statistical Area
+cbsa|346|32220|Marshall, TX Micropolitan Statistical Area
+csa|348||Los Angeles-Long Beach-Riverside, CA Combined Statistical Area
+cbsa|348|31100|Los Angeles-Long Beach-Santa Ana, CA Metropolitan Statistical Area
+cbsa|348|37100|Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area
+cbsa|348|40140|Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area
+csa|350||Louisville-Elizabethtown-Scottsburg, KY-IN Combined Statistical Area
+cbsa|350|21060|Elizabethtown, KY Metropolitan Statistical Area
+cbsa|350|31140|Louisville, KY-IN Metropolitan Statistical Area
+cbsa|350|42500|Scottsburg, IN Micropolitan Statistical Area
+csa|352||Lubbock-Levelland, TX Combined Statistical Area
+cbsa|352|30220|Levelland, TX Micropolitan Statistical Area
+cbsa|352|31180|Lubbock, TX Metropolitan Statistical Area
+csa|354||Lumberton-Laurinburg, NC Combined Statistical Area
+cbsa|354|29900|Laurinburg, NC Micropolitan Statistical Area
+cbsa|354|31300|Lumberton, NC Micropolitan Statistical Area
+csa|356||Macon-Warner Robins-Fort Valley, GA Combined Statistical Area
+cbsa|356|22980|Fort Valley, GA Micropolitan Statistical Area
+cbsa|356|31420|Macon, GA Metropolitan Statistical Area
+cbsa|356|47580|Warner Robins, GA Metropolitan Statistical Area
+csa|358||Madison-Baraboo, WI Combined Statistical Area
+cbsa|358|12660|Baraboo, WI Micropolitan Statistical Area
+cbsa|358|31540|Madison, WI Metropolitan Statistical Area
+csa|360||Mansfield-Bucyrus, OH Combined Statistical Area
+cbsa|360|15340|Bucyrus, OH Micropolitan Statistical Area
+cbsa|360|31900|Mansfield, OH Metropolitan Statistical Area
+csa|364||Mayagüez-San Germán-Cabo Rojo, PR Combined Statistical Area
+cbsa|364|32420|Mayagüez, PR Metropolitan Statistical Area
+cbsa|364|41900|San Germán-Cabo Rojo, PR Metropolitan Statistical Area
+csa|372||Midland-Odessa, TX Combined Statistical Area
+cbsa|372|33260|Midland, TX Metropolitan Statistical Area
+cbsa|372|36220|Odessa, TX Metropolitan Statistical Area
+csa|376||Milwaukee-Racine-Waukesha, WI Combined Statistical Area
+cbsa|376|33340|Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area
+cbsa|376|39540|Racine, WI Metropolitan Statistical Area
+csa|378||Minneapolis-St. Paul-St. Cloud, MN-WI Combined Statistical Area
+cbsa|378|22060|Faribault-Northfield, MN Micropolitan Statistical Area
+cbsa|378|26780|Hutchinson, MN Micropolitan Statistical Area
+cbsa|378|33460|Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area
+cbsa|378|39860|Red Wing, MN Micropolitan Statistical Area
+cbsa|378|41060|St. Cloud, MN Metropolitan Statistical Area
+csa|380||Mobile-Daphne-Fairhope, AL Combined Statistical Area
+cbsa|380|19300|Daphne-Fairhope, AL Micropolitan Statistical Area
+cbsa|380|33660|Mobile, AL Metropolitan Statistical Area
+csa|384||Monroe-Bastrop, LA Combined Statistical Area
+cbsa|384|12820|Bastrop, LA Micropolitan Statistical Area
+cbsa|384|33740|Monroe, LA Metropolitan Statistical Area
+csa|388||Montgomery-Alexander City, AL Combined Statistical Area
+cbsa|388|10760|Alexander City, AL Micropolitan Statistical Area
+cbsa|388|33860|Montgomery, AL Metropolitan Statistical Area
+csa|392||Morristown-Newport, TN Combined Statistical Area
+cbsa|392|34100|Morristown, TN Metropolitan Statistical Area
+cbsa|392|35460|Newport, TN Micropolitan Statistical Area
+csa|396||Myrtle Beach-Conway-Georgetown, SC Combined Statistical Area
+cbsa|396|23860|Georgetown, SC Micropolitan Statistical Area
+cbsa|396|34820|Myrtle Beach-Conway-North Myrtle Beach, SC Metropolitan Statistical Area
+csa|400||Nashville-Davidson--Murfreesboro--Columbia, TN Combined Statistical Area
+cbsa|400|17940|Columbia, TN Micropolitan Statistical Area
+cbsa|400|34980|Nashville-Davidson--Murfreesboro, TN Metropolitan Statistical Area
+csa|406||New Orleans-Metairie-Bogalusa, LA Combined Statistical Area
+cbsa|406|14220|Bogalusa, LA Micropolitan Statistical Area
+cbsa|406|35380|New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area
+csa|408||New York-Newark-Bridgeport, NY-NJ-CT-PA Combined Statistical Area
+cbsa|408|14860|Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area
+cbsa|408|28740|Kingston, NY Metropolitan Statistical Area
+cbsa|408|35300|New Haven-Milford, CT Metropolitan Statistical Area
+cbsa|408|35620|New York-Northern New Jersey-Long Island, NY-NJ-PA Metropolitan Statisticcbsa|408|39100|Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area
+cbsa|408|45860|Torrington, CT Micropolitan Statistical Area
+cbsa|408|45940|Trenton-Ewing, NJ Metropolitan Statistical Area
+csa|416||Oklahoma City-Shawnee, OK Combined Statistical Area
+cbsa|416|36420|Oklahoma City, OK Metropolitan Statistical Area
+cbsa|416|43060|Shawnee, OK Micropolitan Statistical Area
+csa|420||Omaha-Council Bluffs-Fremont, NE-IA Combined Statistical Area
+cbsa|420|23340|Fremont, NE Micropolitan Statistical Area
+cbsa|420|36540|Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area
+csa|422||Orlando-The Villages, FL Combined Statistical Area
+cbsa|422|36740|Orlando-Kissimmee, FL Metropolitan Statistical Area
+cbsa|422|45540|The Villages, FL Micropolitan Statistical Area
+csa|424||Paducah-Mayfield, KY-IL Combined Statistical Area
+cbsa|424|32460|Mayfield, KY Micropolitan Statistical Area
+cbsa|424|37140|Paducah, KY-IL Micropolitan Statistical Area
+csa|426||Peoria-Canton, IL Combined Statistical Area
+cbsa|426|15900|Canton, IL Micropolitan Statistical Area
+cbsa|426|37900|Peoria, IL Metropolitan Statistical Area
+csa|428||Philadelphia-Camden-Vineland, PA-NJ-DE-MD Combined Statistical Area
+cbsa|428|37980|Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metropolitan Statistical Areacbsa|428|47220|Vineland-Millville-Bridgeton, NJ Metropolitan Statistical Area
+csa|430||Pittsburgh-New Castle, PA Combined Statistical Area
+cbsa|430|35260|New Castle, PA Micropolitan Statistical Area
+cbsa|430|38300|Pittsburgh, PA Metropolitan Statistical Area
+csa|434||Ponce-Yauco-Coamo, PR Combined Statistical Area
+cbsa|434|17620|Coamo, PR Micropolitan Statistical Area
+cbsa|434|38660|Ponce, PR Metropolitan Statistical Area
+cbsa|434|42180|Santa Isabel, PR Micropolitan Statistical Area
+cbsa|434|49500|Yauco, PR Metropolitan Statistical Area
+csa|438||Portland-Lewiston-South Portland, ME Combined Statistical Area
+cbsa|438|30340|Lewiston-Auburn, ME Metropolitan Statistical Area
+cbsa|438|38860|Portland-South Portland-Biddeford, ME Metropolitan Statistical Area
+csa|450||Raleigh-Durham-Cary, NC Combined Statistical Area
+cbsa|450|20380|Dunn, NC Micropolitan Statistical Area
+cbsa|450|20500|Durham, NC Metropolitan Statistical Area
+cbsa|450|39580|Raleigh-Cary, NC Metropolitan Statistical Area
+csa|464||Rochester-Batavia-Seneca Falls, NY Combined Statistical Area
+cbsa|464|12860|Batavia, NY Micropolitan Statistical Area
+cbsa|464|40380|Rochester, NY Metropolitan Statistical Area
+cbsa|464|42900|Seneca Falls, NY Micropolitan Statistical Area
+csa|466||Rockford-Freeport-Rochelle, IL Combined Statistical Area
+cbsa|466|23300|Freeport, IL Micropolitan Statistical Area
+cbsa|466|40300|Rochelle, IL Micropolitan Statistical Area
+cbsa|466|40420|Rockford, IL Metropolitan Statistical Area
+csa|472||Sacramento--Arden-Arcade--Truckee, CA-NV Combined Statistical Area
+cbsa|472|23820|Gardnerville Ranchos, NV Micropolitan Statistical Area
+cbsa|472|40900|Sacramento--Arden-Arcade--Roseville, CA Metropolitan Statistical Area
+cbsa|472|46020|Truckee-Grass Valley, CA Micropolitan Statistical Area
+csa|474||Saginaw-Bay City-Saginaw Township North, MI Combined Statistical Area
+cbsa|474|13020|Bay City, MI Metropolitan Statistical Area
+cbsa|474|40980|Saginaw-Saginaw Township North, MI Metropolitan Statistical Area
+csa|476||St. Louis-St. Charles-Farmington, MO-IL Combined Statistical Area
+cbsa|476|22100|Farmington, MO Micropolitan Statistical Area
+cbsa|476|41180|St. Louis, MO-IL Metropolitan Statistical Area
+csa|480||Salisbury-Ocean Pines, MD Combined Statistical Area
+cbsa|480|36180|Ocean Pines, MD Micropolitan Statistical Area
+cbsa|480|41540|Salisbury, MD Metropolitan Statistical Area
+csa|482||Salt Lake City-Ogden-Clearfield, UT Combined Statistical Area
+cbsa|482|14940|Brigham City, UT Micropolitan Statistical Area
+cbsa|482|25720|Heber, UT Micropolitan Statistical Area
+cbsa|482|36260|Ogden-Clearfield, UT Metropolitan Statistical Area
+cbsa|482|41620|Salt Lake City, UT Metropolitan Statistical Area
+csa|488||San Jose-San Francisco-Oakland, CA Combined Statistical Area
+cbsa|488|34900|Napa, CA Metropolitan Statistical Area
+cbsa|488|41860|San Francisco-Oakland-Fremont, CA Metropolitan Statistical Area
+cbsa|488|41940|San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area
+cbsa|488|42100|Santa Cruz-Watsonville, CA Metropolitan Statistical Area
+cbsa|488|42220|Santa Rosa-Petaluma, CA Metropolitan Statistical Area
+cbsa|488|46700|Vallejo-Fairfield, CA Metropolitan Statistical Area
+csa|490||San Juan-Caguas-Fajardo, PR Combined Statistical Area
+cbsa|490|21940|Fajardo, PR Metropolitan Statistical Area
+cbsa|490|41980|San Juan-Caguas-Guaynabo, PR Metropolitan Statistical Area
+cbsa|490|46580|Utuado, PR Micropolitan Statistical Area
+csa|492||Santa Fe-Espanola, NM Combined Statistical Area
+cbsa|492|21580|Espanola, NM Micropolitan Statistical Area
+cbsa|492|42140|Santa Fe, NM Metropolitan Statistical Area
+csa|496||Savannah-Hinesville-Fort Stewart, GA Combined Statistical Area
+cbsa|496|25980|Hinesville-Fort Stewart, GA Metropolitan Statistical Area
+cbsa|496|42340|Savannah, GA Metropolitan Statistical Area
+csa|500||Seattle-Tacoma-Olympia, WA Combined Statistical Area
+cbsa|500|14740|Bremerton-Silverdale, WA Metropolitan Statistical Area
+cbsa|500|36020|Oak Harbor, WA Micropolitan Statistical Area
+cbsa|500|36500|Olympia, WA Metropolitan Statistical Area
+cbsa|500|42660|Seattle-Tacoma-Bellevue, WA Metropolitan Statistical Area
+cbsa|500|43220|Shelton, WA Micropolitan Statistical Area
+csa|508||Shreveport-Bossier City-Minden, LA Combined Statistical Area
+cbsa|508|33380|Minden, LA Micropolitan Statistical Area
+cbsa|508|43340|Shreveport-Bossier City, LA Metropolitan Statistical Area
+csa|512||Sioux City-Vermillion, IA-NE-SD Combined Statistical Area
+cbsa|512|43580|Sioux City, IA-NE-SD Metropolitan Statistical Area
+cbsa|512|46820|Vermillion, SD Micropolitan Statistical Area
+csa|526||Sunbury-Lewisburg-Selinsgrove, PA Combined Statistical Area
+cbsa|526|30260|Lewisburg, PA Micropolitan Statistical Area
+cbsa|526|42780|Selinsgrove, PA Micropolitan Statistical Area
+cbsa|526|44980|Sunbury, PA Micropolitan Statistical Area
+csa|532||Syracuse-Auburn, NY Combined Statistical Area
+cbsa|532|12180|Auburn, NY Micropolitan Statistical Area
+cbsa|532|45060|Syracuse, NY Metropolitan Statistical Area
+csa|534||Toledo-Fremont, OH Combined Statistical Area
+cbsa|534|23380|Fremont, OH Micropolitan Statistical Area
+cbsa|534|45780|Toledo, OH Metropolitan Statistical Area
+csa|538||Tulsa-Bartlesville, OK Combined Statistical Area
+cbsa|538|12780|Bartlesville, OK Micropolitan Statistical Area
+cbsa|538|46140|Tulsa, OK Metropolitan Statistical Area
+csa|540||Tyler-Jacksonville, TX Combined Statistical Area
+cbsa|540|27380|Jacksonville, TX Micropolitan Statistical Area
+cbsa|540|46340|Tyler, TX Metropolitan Statistical Area
+csa|542||Union City-Martin, TN-KY Combined Statistical Area
+cbsa|542|32280|Martin, TN Micropolitan Statistical Area
+cbsa|542|46460|Union City, TN-KY Micropolitan Statistical Area
+csa|548||Washington-Baltimore-Northern Virginia, DC-MD-VA-WV Combined Statistical Arecbsa|548|12580|Baltimore-Towson, MD Metropolitan Statistical Area
+cbsa|548|19020|Culpeper, VA Micropolitan Statistical Area
+cbsa|548|30500|Lexington Park, MD Micropolitan Statistical Area
+cbsa|548|47900|Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Statistical Arecbsa|548|49020|Winchester, VA-WV Metropolitan Statistical Area
+csa|554||Wausau-Merrill, WI Combined Statistical Area
+cbsa|554|32980|Merrill, WI Micropolitan Statistical Area
+cbsa|554|48140|Wausau, WI Metropolitan Statistical Area
+csa|556||Wichita-Winfield, KS Combined Statistical Area
+cbsa|556|48620|Wichita, KS Metropolitan Statistical Area
+cbsa|556|49060|Winfield, KS Micropolitan Statistical Area
+csa|558||Williamsport-Lock Haven, PA Combined Statistical Area
+cbsa|558|30820|Lock Haven, PA Micropolitan Statistical Area
+cbsa|558|48700|Williamsport, PA Metropolitan Statistical Area
+csa|564||York-Hanover-Gettysburg, PA Combined Statistical Area
+cbsa|564|23900|Gettysburg, PA Micropolitan Statistical Area
+cbsa|564|49620|York-Hanover, PA Metropolitan Statistical Area
+csa|566||Youngstown-Warren-East Liverpool, OH-PA Combined Statistical Area
+cbsa|566|20620|East Liverpool-Salem, OH Micropolitan Statistical Area
+cbsa|566|49660|Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area
