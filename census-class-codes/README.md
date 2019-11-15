@@ -17,3 +17,4 @@ https://www.census.gov/library/reference/code-lists/legal-status-codes.html
 > The route type code (RTTYP) describes the type of road. These codes can be found in the TIGER/Line products. The table below describes each code. For additional information about each road, see the definitions on the MAF/TIGER Feature Class Codes (MFTCC) page.
 
 https://www.census.gov/library/reference/code-lists/route-type-codes.html
+
