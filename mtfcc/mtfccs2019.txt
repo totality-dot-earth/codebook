@@ -476,7 +476,7 @@ S1730 Alley                          Road/Path                  N       Y       
                                      Features                                           structures and is usually unnamed. It is located at the rear of buildings 
                                                                                         and properties and is used for deliveries.
 S1740 Private Road for service       Road/Path                  N       Y       N       A road within private property that is privately maintained for service, 
-        vehicles (logging, oil       Features                                         extractive, or other purposes. These roads are often unnamed.
+        vehicles (logging, oil       Features                                           extractive, or other purposes. These roads are often unnamed.
         fields, ranches, etc.)
 S1750 Internal U.S. Census           Road/Path                  N       Y       N       Internal U.S. Census Bureau use.
         Bureau use                   Features
