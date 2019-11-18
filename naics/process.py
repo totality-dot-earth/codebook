@@ -82,7 +82,7 @@ def output_children(item):
         fd.write(f"{item['code']}\t{cs}\n")
         [output_children(c) for c in item['children']]
 
-with open('2017_NAICS_children.tsv', 'w') as fd:        
+with open('naics_2017_children.tsv', 'w') as fd:        
     output_children(hierarchy)
 
 with open('naics_2017_codes.json', 'w') as fd:
